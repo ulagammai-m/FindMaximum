@@ -13,7 +13,8 @@ To write a program to find the maximum of a list of numbers.
 i)	# To find the maximum of marks using the list method sort.
 ```Python
 
-
+gcd()
+print()
 
 ```
 
@@ -31,7 +32,7 @@ iii) # To find the maximum marks without using builtin functions.
 
 ```
 ## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+![output](C:\Users\Ulagammai\OneDrive\Documents\MAX\FindMaximum\img\max_marks1.jpg) 
 
 ## Output:
 
